@@ -1,0 +1,7 @@
+package start.intro;
+
+public class Hello { // 클래스
+    public static void main(String[] args) {
+        System.out.println("Hello, Java!");
+    }
+}
