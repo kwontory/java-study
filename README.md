@@ -14,6 +14,8 @@
 <details>
 <summary> ✏️ 김영한의 자바 입문</summary>
 
+**\*start package**
+
 1. **Hello World**  
    개발 환경 설정   
    다운로드 소스 코드 실행 방법   
@@ -96,5 +98,6 @@
 <details>
 <summary> ✏️ 김영한의 실전 자바 - 기본편</summary>
 
+**\*basic package**
 
 </details>
